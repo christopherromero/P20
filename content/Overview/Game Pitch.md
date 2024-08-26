@@ -8,7 +8,7 @@ Game System & Edition
 5 Edition Dungeons and Dragons
 
 **Setting, style, theme, etc.**
-Game is set in a homebrew world called Augard, very much inspired by Eberron/Steampunk vibes, more “advanced society” and magic is very prevalent. Augard is a nation that has known peace for over a 1,000 years. There have been no real wars, rebellions, attacks, anything of the sort. It has been a truly idyllic time for all. 
+Game is set in a homebrew world called [[Augard]], very much inspired by Eberron/Steampunk vibes, more “advanced society” and magic is very prevalent. Augard is a nation that has known peace for over a 1,000 years. There have been no real wars, rebellions, attacks, anything of the sort. It has been a truly idyllic time for all. 
 
 Titanpelt Industries, the Augard’s largest conglomerate has put out a call asking for the newest wave of up and coming adventurers to participate in its newest Hero initiative. Participants will be a part of Titanpelt’s next greatest innovation. They are specifically calling for new and up and coming adventurers (level 1). After completion of the project, each individual will be given 1 Million gold pieces. This messaging has been spread across Augard to every corner, no stone has been left unturned. All applicants will need to go to a local Hero showcase be evaluated and show their potential.
 
