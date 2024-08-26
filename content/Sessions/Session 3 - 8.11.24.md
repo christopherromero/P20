@@ -24,13 +24,13 @@ Lyla is an elven woman, slender and tall, an active working Artificer. Still pra
 Lyla will use the Hero Initiative to distill the essence of Lvl 20 adventuring, and can sell it to instantly make others powerful adventurers.
 
 We made wills to who would receive our 1M gold after we die:
-Imn - listed each of her 6 siblings and 2 parents
-Eskender - gave to Imn’s family as well 
-Saxum - to his community 
-Vale - ?
+[[Imn Du’Alik]] - listed each of her 6 siblings and 2 parents
+[[Eskender Kumbukani]] - gave to [[Imn Du’Alik]]’s family as well 
+[[Saxum Dustrunner]] - to his community 
+[[Vale]] - ?
 
 
-Eskender succeeded in his trial to overcome the souls of past battles.
+[[Eskender Kumbukani]] succeeded in his trial to overcome the souls of past battles.
 Imn succeeded in navigating a mine shaft.
 Vale succeeded in stealing a key from patrons at a bar and a ring from jewelry boxes.
 Saxum witnessed the event that devastated his people.
